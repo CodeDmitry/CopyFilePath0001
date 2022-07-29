@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Windows;
 
-namespace FileSize0001 
+namespace CopyFilePath0001 
 {
     class Program
     {
